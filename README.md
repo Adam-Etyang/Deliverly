@@ -13,9 +13,8 @@ Deliverly
 │   └── test
 │       ├── java                # Test Java source files
 │       ├── resources           # Resource files for testing
-│       └── kotlin              # Test Kotlin source files
-├── build.gradle                # Gradle build configuration
-├── settings.gradle             # Gradle settings configuration
+│       ├── build.gradle                # Gradle build configuration
+│       ├── settings.gradle             # Gradle settings configuration
 └── README.md                   # Project documentation
 ```
 
